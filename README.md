@@ -2,7 +2,7 @@
 
 ### Article: The Next Two Years of Software Engineering
 
-**Link**: https://addyosmani.com/blog/next-two-years/
+**Link**: https://addyosmani.com/blog/next-two-years/ \
 **Author**: Addy Osmani
 
 
