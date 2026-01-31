@@ -11,3 +11,7 @@ The question that interested me the most was the junior developer question: will
 ---
 <h4>Hitaansh Jain's comments: </h4>
 I think there is a lot of discourse about junior developer hiring, but I feel like rather than the number of new hires collapsing, the bar for new hires is going to rise. Junior developers are going to be expected to be even more proficient than ever using AI to both, grow themselves as a software engineer, and to increase their efficiency at work. The article also mentions universities as inefficient for preparing students for industry with slow cirriculum changes and a disconnent in practices, which makes me more excited to take a class like this which is so different from traditional classes but prepares us for industry well.
+
+---
+#### Samuel Tang's comments: 
+What I found most important about this article was how it frames AI as a shift in *how* engineers work instead of being a replacement for engineers themselves. Osmani argues that fundamentals, systems thinking, and sound judgment become even more important as tools improve, which aligns with how I’ve been thinking about the way expectations will shift as AI becomes more integrated in everyday workflows. The emphasis on adaptability and learning over specific frameworks makes this feel less like a prediction piece and more like practical career advice.
